@@ -1,0 +1,147 @@
+/* * Top Container * */
+.contact-but{
+  color: white;
+}
+.contact-but1{
+  border-right-style: solid;
+  border-right-color: white;
+  border-right-width: 2px;
+  color: white;
+}
+.contact-but:hover{
+  color:#FFDF00 !important;
+}
+.contact-but1:hover{
+  color:#FFDF00 !important;
+}
+#top-contain{
+  background-color: #262626;
+}
+/* Navigation Bar */
+.main-nav{
+  margin-left:15%;
+  margin-right: 15%;
+}
+.nav-list{
+  font-family:'Open Sans' ;
+  font-size: 25px;
+  font-weight: bold;
+}
+.nav-item{
+  padding-left: 35px;
+  padding-right:35px;
+}
+.home:hover{
+  color:#FFDF00 !important;
+}
+.about-us:hover{
+  color:#FFDF00 !important;
+}
+.services:hover{
+  color: #FFDF00 !important;
+}
+/* .partners{
+  color: #FFDF00 !important;
+} */
+.contact{
+  color: #FFDF00 !important;
+}
+.partners:hover{
+  color: #FFDF00 !important;
+}
+.contact:hover{
+  color: #FFDF00 !important;
+}
+.blog:hover{
+  color: #FFDF00 !important;
+}
+#Navigation{
+  background-color:#000000
+}
+/* Contact */
+.contact-header{
+  padding-top:50px;
+  font-family: 'Sora';
+  color: #f58020 ;
+}
+.prescription-program{
+  margin-top: 30px;
+  background-color:#b79f1c;
+  color: white;
+  margin-bottom: 20px;
+}
+.prescription-program1{
+  margin-top: 30px;
+  background-color:#b79f1c;
+  color: white;
+  margin-bottom: 20px;
+  margin-top: 65px;
+}
+.forming-row{
+  padding-top: 50px;
+  margin-bottom: 50px;
+}
+.form-message{
+  height: 188px !important;
+}
+.naverville-header{
+  font-family: 'Sora';
+}
+.naverville-para{
+  font-size: 20px;
+}
+.oak-header{
+  font-family: "Sora";
+}
+.oak-para{
+  font-size: 20px;
+}
+.submit-button{
+  background-color:#b79f1c;
+  color: white;
+}
+
+/* Bottom Information */
+.social-links{
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.facebook{
+  padding-bottom: 20px;
+}
+.linkedin{
+  padding-bottom: 20px;
+}
+.instagram{
+  padding-bottom: 20px;
+}
+.face-button{
+  background-color:#b79f1c;
+  color: white;
+  position: relative;
+  left: 250px;
+  padding-bottom: 8px;
+}
+.link-button{
+  background-color:#b79f1c;
+  color: white;
+  position: relative;
+  left: 250px;
+  padding-bottom: 8px;
+}
+.insta-button{
+  background-color:#b79f1c;
+  color: white;
+  position: relative;
+  left: 250px;
+  padding-bottom: 8px;
+}
+.copyright{
+  color: white;
+  text-align: center;
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+}
+#Bottom-Contact{
+  background-color: #262626;
+}

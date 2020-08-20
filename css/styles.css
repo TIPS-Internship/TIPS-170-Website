@@ -1,0 +1,245 @@
+/* Top Container */
+.contact-but{
+  color: white;
+}
+.contact-but1{
+  border-right-style: solid;
+  border-right-color: white;
+  border-right-width: 2px;
+  color: white;
+}
+.contact-but:hover{
+  color:#FFDF00 !important;
+}
+.contact-but1:hover{
+  color:#FFDF00 !important;
+}
+#top-contain{
+  background-color: #262626;
+}
+/* Navigation Bar */
+.main-nav{
+  margin-left:15%;
+  margin-right: 15%;
+}
+.nav-list{
+  font-family:'Open Sans' ;
+  font-size: 30px;
+  font-weight: bold;
+}
+.nav-item{
+  padding-left: 35px;
+  padding-right:35px;
+}
+.home{
+  color:#FFDF00 !important;
+}
+.about-us:hover{
+  color:#FFDF00 !important;
+}
+.services:hover{
+  color: #FFDF00 !important;
+}
+.partners:hover{
+  color: #FFDF00 !important;
+}
+.contact:hover{
+  color: #FFDF00 !important;
+}
+.blog:hover{
+  color: #FFDF00 !important;
+}
+#Navigation{
+  background-color:#000000
+}
+
+/* Consultation Info */
+.tips-logo{
+  float: left;
+}
+.tips-title{
+  position: relative;
+  top: 50px;
+  right: 35px;
+  font-weight: bold;
+}
+.tips-para{
+  position: relative;
+  top: 50px;
+  right: 35px;
+  font-size: 30px;
+}
+.consul{
+  text-align: right;
+  padding-right: 50px;
+  font-weight: bold;
+  padding-top: 50px;
+  font-size: 25px;
+}
+.tips-number{
+  font-size: 25px;
+  text-align: right;
+  padding-right: 50px;
+  font-weight: bold;
+  position: relative;
+  bottom: 15px;
+}
+/* #Consultation-Info{
+  background-color:#f2f2f2;
+} */
+/* Carousel */
+.tips-pic{
+  height: 550px;
+  width: 100%;
+  display: inline-block;
+}
+.head-title{
+  font-size: 55px;
+  height: 250px;
+}
+
+/* Tips Slogan */
+.reduce{
+  text-align: center;
+  font-size: 45px;
+}
+.analyze{
+  text-align: center;
+  font-size: 45px;
+  font-weight: bold;
+}
+.vertical-center{
+  padding: 0.75em 2em .75em 3.5em;
+  text-align: center;
+  margin:1.5em 0 0;
+  padding-bottom: 40px;
+}
+.tips-button{
+  background-color: #b79f1c;
+  color: white;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-size: 25px;
+}
+/* Company Information */
+.our-vis{
+  text-align: left;
+  margin-left: 100px;
+  width: 100px;
+  padding-left: ‒20;
+  padding-left: 100px;
+  border-left-width: 20px;
+  background-color: orange;
+  height: 2px;
+  margin-top: 0px;
+}
+.about-block{
+  border-right-style: solid;
+  border-right-color: white;
+}
+.about-header{
+  padding-top: 40px;
+  padding-left: 100px;
+  padding-bottom: 15px;
+  /* text-decoration: underline; */
+  font-size: 40px;
+}
+.about-para{
+  border-left-width: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-size: 25px;
+}
+.read-more1{
+  border-left-width: 0px;
+  position: relative;
+  left: 100px;
+  border-bottom-width: 0px;
+  margin-bottom: 20px;
+  margin-top: 60px;
+  background-color:#b79f1c;
+  color: white;
+}
+.services-header{
+  padding-left: 110px;
+  padding-bottom: 15px;
+  /* text-decoration: underline; */
+  font-size: 40px;
+  padding-top: 40px;
+}
+.list-services{
+  padding-left: 140px;
+  font-size: 25px;
+}
+.risk-man{
+  padding-bottom: 15px;
+  font-size: 25px;
+}
+.benefits{
+  padding-bottom: 15px;
+}
+.implement{
+  padding-bottom: 15px;
+}
+.transfer-risk{
+  padding-bottom: 15px;
+}
+.prescipt{
+  padding-bottom: 15px;
+}
+.read-more2{
+  background-color:#b79f1c;
+  color: white;
+  position: relative;
+  left: 120px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#Company-Information{
+  background-color: #f6f6f6;
+  padding-bottom: 20px;
+}
+/* Bottom Information */
+.social-links{
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.facebook{
+  padding-bottom: 20px;
+}
+.linkedin{
+  padding-bottom: 20px;
+}
+.instagram{
+  padding-bottom: 20px;
+}
+.face-button{
+  background-color:#b79f1c;
+  color: white;
+  position: relative;
+  left: 250px;
+  padding-bottom: 8px;
+}
+.link-button{
+  background-color:#b79f1c;
+  color: white;
+  position: relative;
+  left: 250px;
+  padding-bottom: 8px;
+}
+.insta-button{
+  background-color:#b79f1c;
+  color: white;
+  position: relative;
+  left: 250px;
+  padding-bottom: 8px;
+}
+.copyright{
+  color: white;
+  text-align: center;
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+}
+#Bottom-Contact{
+  background-color: #262626;
+}

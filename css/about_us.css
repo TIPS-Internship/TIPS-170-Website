@@ -1,0 +1,180 @@
+/* Top Container */
+.contact-but{
+  color: white;
+}
+.contact-but1{
+  border-right-style: solid;
+  border-right-color: white;
+  border-right-width: 2px;
+  color: white;
+}
+.contact-but:hover{
+  color:#FFDF00 !important;
+}
+.contact-but1:hover{
+  color:#FFDF00 !important;
+}
+#top-contain{
+  background-color: #262626;
+}
+/* Navigation Bar */
+.main-nav{
+  margin-left:15%;
+  margin-right: 15%;
+}
+.nav-list{
+  font-family:'Open Sans' ;
+  font-size: 25px;
+  font-weight: bold;
+}
+.nav-item{
+  padding-left: 35px;
+  padding-right:35px;
+}
+
+.home:hover{
+  color:#FFDF00 !important;
+}
+.about-us{
+  color:#FFDF00 !important;
+}
+.about-us:hover{
+  color:#FFDF00 !important;
+}
+.services:hover{
+  color: #FFDF00 !important;
+}
+.partners:hover{
+  color: #FFDF00 !important;
+}
+.contact:hover{
+  color: #FFDF00 !important;
+}
+.blog:hover{
+  color: #FFDF00 !important;
+}
+#Navigation{
+  background-color:#000000
+}
+/* About Us */
+.exec-row{
+  border-bottom-width: 50px;
+  margin-bottom: 80px;
+}
+.about-header{
+  padding-top:50px;
+  font-family: 'Sora';
+  color: #f58020 ;
+}
+.educate{
+  font-size: 25px;
+  font-family: 'Sora';
+}
+.david1{
+  float: right;
+  width: 300px;
+  height: 224px;
+  margin-left: 20px;
+  border:solid;
+  border-color: gray;
+}
+.david2{
+  float: left;
+  width: 300px;
+  height: 224px;
+  margin-left: 20px;
+  border:solid;
+  border-color: gray;
+  margin-left: 0px;
+  margin-right: 20px;
+}
+.employment{
+  font-size: 25px;
+  font-family: 'Sora';
+}
+.david3{
+  float: right;
+  width: 300px;
+  height: 224px;
+  margin-left: 20px;
+  border:solid;
+  border-color: gray;
+}
+.bus-prev{
+  font-size: 25px;
+  font-family: 'Sora';
+}
+.connect-button{
+  background-color:#b79f1c;
+  color: white;
+}
+.exec2{
+  width: 316px;
+  height: 464px;
+}
+.connect-button3{
+  border-top-width: 1px;
+  margin-top: 70px;
+}
+.car-person2{
+  height: 272px;
+}
+.car-person3{
+  height: 272px;
+}
+.connect-button2{
+  margin-top: 70px;
+  background-color:#b79f1c;
+  color: white;
+}
+.connect-button3{
+  margin-top: 70px;
+  background-color:#b79f1c;
+  color: white;
+}
+
+
+/* Bottom Information */
+.social-links{
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.facebook{
+  padding-bottom: 20px;
+}
+.linkedin{
+  padding-bottom: 20px;
+}
+.instagram{
+  padding-bottom: 20px;
+}
+.face-button{
+  background-color:#b79f1c;
+  color: white;
+  position: relative;
+  left: 250px;
+  padding-bottom: 8px;
+}
+.link-button{
+  background-color:#b79f1c;
+  color: white;
+  position: relative;
+  left: 250px;
+  padding-bottom: 8px;
+}
+.insta-button{
+  background-color:#b79f1c;
+  color: white;
+  position: relative;
+  left: 250px;
+  padding-bottom: 8px;
+}
+.copyright{
+  color: white;
+  text-align: center;
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+}
+#Bottom-Contact{
+  background-color: #262626;
+}
